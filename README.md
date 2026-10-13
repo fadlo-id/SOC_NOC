@@ -27,9 +27,9 @@ Voir `docs/security-and-limitations.md` pour le détail des limites identifiées
 
 ## Architecture
 
-![Architecture phase 2 — laboratoire multi-systèmes](assets/architecture-phase2-laboratoire.png)
+![Architecture générale du laboratoire SOC/NOC](assets/diagrams/01-architecture-generale.png)
 
-Détail complet dans `docs/architecture.md`.
+Détail complet, avec les schémas de segmentation réseau et de flux de collecte/supervision, dans `docs/architecture.md`. Schémas originaux sourcés dans `assets/diagrams/SOURCES.md` (fichiers Python modifiables dans `assets/diagrams/source/`).
 
 ## Technologies utilisées
 
